@@ -1,4 +1,5 @@
 //Treasure hunt game
+//in 100 lines 
 //creating variables
 let playerName="Sharma Pallavi"
 //initial coins
@@ -97,6 +98,7 @@ finalStatus = "WIN";
 }
 // Print status
 console.log("Status: " + finalStatus);
+
 
 
 
